@@ -1,5 +1,5 @@
-# word-guesser
-Word Guessing Game
+# letter-guesser
+Letter Guessing Game
 
 Instructions:
 You start the .exe file and the program starts
