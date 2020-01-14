@@ -8,3 +8,6 @@ Once you hit 5 guesses the game will end and you will press "ENTER" to end the p
 
 Bugs:
 One issue is that when you guess correctly the program keeps going rather than ending 
+
+Note:
+Just a beginner and testing stuff out! New to GitHub also :)
