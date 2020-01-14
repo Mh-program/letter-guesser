@@ -1,4 +1,4 @@
-/* Hangman Game
+/* Letter Guessing Game
  Author: Mahim Hossain
  Date : 14/01/2020
 */
@@ -16,7 +16,7 @@ int main() {
     answer = 'A';
     lives = 5;
     
-    printf("Welcome to the Hangman Game \n \n");
+    printf("Welcome to the Letter Guessing Game \n \n");
     
     for(i = 0; i < 5; i = i+1) {
         
